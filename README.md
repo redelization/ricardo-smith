@@ -1,2 +1,2 @@
 # ricardo-smith
-Demo repository for git example
+Repo for some random projects
